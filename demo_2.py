@@ -7,3 +7,5 @@ a = 1
 b=2 
 print(a+b)
 #ra ket qua ne
+#edit them 1 dong nua next 
+#debug lỗi 
